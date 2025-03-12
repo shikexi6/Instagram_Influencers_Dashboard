@@ -1,0 +1,17 @@
+name: 'instagram_influencer'
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - ipykernel
+    - pandas
+    - altair-all
+    - dash
+    - dash-bootstrap-components
+    - plotly
+    - tabulate  # df.to_markdown()
+    - lxml  # pd.read_html()
+    - pycountry
+    - pip
+    - pip:
+        - dash-vega-components
