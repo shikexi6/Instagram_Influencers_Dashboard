@@ -3,15 +3,13 @@ channels:
     - conda-forge
     - defaults
 dependencies:
-    - ipykernel
-    - pandas
-    - altair-all
-    - dash
-    - dash-bootstrap-components
-    - plotly
-    - tabulate  # df.to_markdown()
-    - lxml  # pd.read_html()
-    - pycountry
-    - pip
-    - pip:
-        - dash-vega-components
+    -  r-base=4.1.2
+    - r-shiny
+    - r-plotly
+    - r-dplyr
+    - r-readr
+    - r-tidyverse
+    - r-ggplot2
+    - r-data.table
+    - r-jsonlite
+    - r-httr

@@ -44,10 +44,10 @@ conda env create --file environment.yaml
 
 You can run the dash app by typing 
 ``` bash
-python src/app.py
+Rscript -e "shiny::runApp('src/app.R')"
 ```
 
-You can view the dash app by navigating to the address ``http://127.0.0.1:8050/`` in your browser.
+You can view the dash app by navigating to the address ``http://127.0.0.1:6897` in your browser.
 
 
 ## License
