@@ -13,9 +13,8 @@ Instagram plays a pivotal role in shaping public opinion and influencing user be
 ## Usage
 
 ### Video Walkthrough
-Take a look at the video instruction:
 
-![](img/demo.mp4)
+![Take a look at the video instruction](img/demo.mp4)
 
 ### Dashboard
 Try the live demo::
