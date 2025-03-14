@@ -12,15 +12,15 @@ Instagram plays a pivotal role in shaping public opinion and influencing user be
 
 ## Usage
 
-### Demo GIF
-Take a look at our demo:
+### Video Walkthrough
+Take a look at the video instruction:
 
-![Demo Animation](img/demo1.gif)
+![](img/demo.mp4)
 
 ### Dashboard
 Try the live demo::
 
-https://dsci-532-2025-21-ds-salaries.onrender.com/ 
+https://019591e1-cb2f-508b-568c-753d8f287dce.share.connect.posit.cloud/
 
 ### Developer Guide
 
